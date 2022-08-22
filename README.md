@@ -1,6 +1,5 @@
 # Getting Started with Create React App
-### Deployed Version
-https://netfilx-clone-8fc65.web.app/
+## Deployed Version https://netfilx-clone-8fc65.web.app/
 
 ## API used "https://api.themoviedb.org/3"
 
