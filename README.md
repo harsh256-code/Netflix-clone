@@ -1,4 +1,7 @@
 # Getting Started with Create React App
+## Deployed Version
+https://netfilx-clone-8fc65.web.app/
+![image](https://user-images.githubusercontent.com/70187887/185852211-250fb842-9926-4085-bfa6-4a9e4c69c667.png)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
