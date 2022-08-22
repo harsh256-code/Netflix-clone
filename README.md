@@ -1,6 +1,7 @@
 
 ## Deployed Version https://netfilx-clone-8fc65.web.app/
 ### Refresh 2-3 Times to get Proper View
+## Click on movie card to watch trailer
 ## API used "https://api.themoviedb.org/3"
 
 ## Preview
